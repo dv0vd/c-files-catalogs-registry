@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os44\os44\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\vd\source\repos\os44\os44\source.cpp(10): warning C4101: 'keyName': unreferenced local variable
+  os44.vcxproj -> C:\Users\VD\source\repos\os44\Debug\os44.exe

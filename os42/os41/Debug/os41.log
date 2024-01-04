@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os42\os41\source.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  os41.vcxproj -> C:\Users\VD\source\repos\os42\Debug\os41.exe
